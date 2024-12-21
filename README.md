@@ -1,5 +1,7 @@
-# tic_tac_toe-js
-This JavaScript code implements a dynamic Tic Tac Toe game. It includes winner detection, draw handling, and reset functionality. The game dynamically toggles between players, manages UI updates, and ensures a smooth user experience with a hidden "New Game" button that appears upon game completion.
+Here’s the updated README with a section for adding screenshots:
+
+---
+
 # Tic Tac Toe Game
 
 The **Tic Tac Toe Game** is a fun, interactive, and responsive web-based application designed for two players. Built using HTML, CSS, and JavaScript, this game is perfect for casual entertainment while showcasing clean code practices and an intuitive user interface.
@@ -20,6 +22,22 @@ The **Tic Tac Toe Game** is a fun, interactive, and responsive web-based applica
 
 💻 **Responsive Design**  
 - Optimized for all devices, including desktops, tablets, and mobile phones.
+
+## Screenshots
+<img width="1470" alt="Screenshot 2024-12-21 at 5 50 47 p m" src="https://github.com/user-attachments/assets/afc0a272-5e81-4f3e-9eb9-4bfa6150ccb0" />
+
+
+
+### Gameplay Interface
+![Gameplay Interface](path/to/screenshot1.png)
+
+### Winner Detection
+![Winner Detection](path/to/screenshot2.png)
+
+### Game Draw
+![Game Draw](path/to/screenshot3.png)
+
+> Replace `path/to/screenshotX.png` with the relative paths or URLs of your actual screenshots.
 
 ## How to Play
 
@@ -81,4 +99,4 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 ---
 
-You can now update this README file in your repository. Let me know if you need further assistance!
+You can replace the placeholder image paths (`path/to/screenshotX.png`) with the actual file paths or URLs to your screenshots. Let me know if you need help adding screenshots!
